@@ -4,7 +4,7 @@ public class Main {
         int ticket = 6000;
         int mile = ticket / price_mile;
         System.out.println("Бонусные мили");
-        System.out.println (mile);
+        System.out.println(mile);
 
     }
 }
